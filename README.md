@@ -1,4 +1,8 @@
 # dio-java-basico
-Java basico bootcamp da dio 
 
-teste
+##Local de estudo
+
+Java basico bootcamp da dio
+
+- Tipos e variaveis 
+- Anatomia java
